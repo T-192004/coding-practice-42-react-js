@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.home-light-container {
+  background-color: #f8fafc;
+  background-size: cover;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.home-light-title {
+  color: #171f46;
+  font-size: 28px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.home-logo {
+  width: 240px;
+  height: 240px;
+}
+.home-dark {
+  background-color: #000000;
+  color: #f8fafc;
+}
